@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/pt-kg/Datasets/images/train   
+val: /content/drive/MyDrive/pt-kg/Datasets/images/test
+
+# Classes
+names:
+  0: RayaColor
+  1: PuntoCorte

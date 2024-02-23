@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Deteccion2/Datasets/images/train   
+val: /content/drive/MyDrive/Deteccion2/Datasets/images/validation
+test: /content/drive/MyDrive/Deteccion2/Datasets/images/test
+
+# Classes
+names:
+  0: RayaColor
+  1: PuntoCorte

@@ -1,0 +1,56 @@
+# Archivos de configuración
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+env/
+*.env
+
+# Archivos de registro y salida
+*.log
+*.csv
+*.docx
+*.pem
+*.mp4
+
+# Archivos de caché
+*.pyo
+*.pyd
+
+# Carpetas de construcción
+build/
+dist/
+
+# Archivo de configuración de VSCode
+.vscode/
+
+# Carpeta __pycache__ para Python 3.2 y versiones posteriores
+__pycache__/
+
+# Carpeta .pytest_cache
+.pytest_cache/
+
+# Carpeta htmlcov para informes de cobertura
+htmlcov/
+
+# Archivo de bloqueo para entornos virtuales
+pyvenv.cfg
+
+# Archivo de configuración para flake8
+.flake8
+
+# Carpeta de salida de mypy
+.mypy_cache/
+
+# Carpeta de salida de pylint
+.pylint/
+
+# Archivos de configuración para IDE específico
+.idea/
+*.iml
+*.iws
+
+# Archivos de historial y caché de Jupyter
+.ipynb_checkpoints/
+.jupyter/
