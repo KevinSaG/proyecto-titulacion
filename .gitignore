@@ -12,7 +12,6 @@ env/
 *.csv
 *.docx
 *.pem
-*.mp4
 
 # Archivos de caché
 *.pyo
